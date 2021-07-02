@@ -1,11 +1,11 @@
-# frogo-camera-x
+## frogo-camera-x
 CameraX
 
-# Documentation
+## Documentation
 - Developer Android - https://developer.android.com/training/camerax
 - Codelabs Google - https://codelabs.developers.google.com/codelabs/camerax-getting-started/#0
 
-# Colaborator
+## Colaborator
 Very open to anyone, I'll write your name under this, please contribute by sending an email to me
 
 - Mail To faisalamircs@gmail.com
@@ -19,6 +19,6 @@ Name Of Contribute
 
 Waiting for your contribute
 
-# Attention !!!
+## Attention !!!
 - Please enjoy and don't forget fork and give a star
 - Don't Forget Follow My Github Account
